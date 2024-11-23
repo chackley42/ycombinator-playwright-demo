@@ -6,5 +6,6 @@ You will find posts.csv where the information scraped is written to.
 ### How to run
 in root directory of project, run:
 
-npm install
+npm install, 
+
 npx playwright test
